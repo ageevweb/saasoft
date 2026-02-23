@@ -1,0 +1,12 @@
+html {
+  color-scheme: light;
+}
+
+html,
+body,
+#app {
+  font-family: "Roboto", sans-serif;
+  margin: 0;
+  background: #f5f6f8;
+  color: #1a1d21;
+}

@@ -1,0 +1,1 @@
+{"root":["./src/main.ts","./src/vite-env.d.ts","./src/stores/accounts.ts","./src/types/accounts.ts","./src/app.vue","./src/components/accountmanagementform.vue"],"version":"5.6.3"}
